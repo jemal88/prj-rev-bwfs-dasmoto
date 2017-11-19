@@ -1,0 +1,36 @@
+<!---Header--->
+.box{
+  background-color: white;
+}
+
+.image{
+  background-image: image(C:\Projects\Dasmoto's Arts & Crafts\pattern.jpeg);
+  background-position: center;
+  padding: inherit;
+  position: absolute;
+}
+
+
+
+.brushes {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: mediumspringgreen;
+}
+
+ .frames {
+   font-family: helvetica;
+   font-size: 32px;
+   font-weight: bold;
+   color:white;
+   background-color: lightcoral;
+}
+.paint {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: skyblue;
+}
